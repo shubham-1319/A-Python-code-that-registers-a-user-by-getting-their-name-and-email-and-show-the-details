@@ -1,4 +1,5 @@
 #made by shubham
+#this code is tested on Colab only.
 def register_user():
     name = input("Enter your name: ")
     email = input("Enter your Gmail address: ")
